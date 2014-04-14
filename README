@@ -1,4 +1,4 @@
 List of problems - http://projecteuler.net/problems
 
-* Task1 - http://projecteuler.net/problem=1 
-* Task7 - http://projecteuler.net/problem=7
+* Task1 - http://projecteuler.net/problem=1 - https://github.com/fldrog/prj_euler_tasks/blob/master/java/prjeuler/src/main/java/com/florinbotis/prjeuler/task1/Task1.java
+* Task7 - http://projecteuler.net/problem=7 - https://github.com/fldrog/prj_euler_tasks/blob/master/java/prjeuler/src/main/java/com/florinbotis/prjeuler/task7/NthPrime.java
